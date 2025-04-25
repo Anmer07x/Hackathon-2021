@@ -1,0 +1,31 @@
+.ranking{
+    margin-top: 50px;
+    width: 95%;
+    height: 90% auto;
+    padding: 0px;
+    background: #fff ;
+    border-radius: 6px 6px 6px 6px;
+    position: relative;
+    border-style: solid;
+    border-radius: 2px;
+    border-color: black;
+    left: 0%;
+}
+
+table {
+  border-collapse: collapse;
+  width: 99%;
+  position: relative;
+  background: none;
+  left: 0%;
+}
+
+th, tr {
+  padding: 2px;
+ border-left: blue;
+  border-bottom: 3px solid #ddd;
+  margin: 5px;
+  font-size: 12px;
+}
+
+tr:hover {background-color:#dadedc;}
